@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bainyevieira.adv.br/sitemap.xml
